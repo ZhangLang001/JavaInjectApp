@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JavaInjectApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hello">test</string>
+    <string name="imei">imei</string>
+    <string name="imsi">imsi</string>
+    <string name="number">number</string>
+    <string name="hookiphone">hookiphone(4 args)</string>
+    <string name="unhookiphone">hookiphone(2 args)</string>
+    <string name="notification">notification</string>
+</resources>
